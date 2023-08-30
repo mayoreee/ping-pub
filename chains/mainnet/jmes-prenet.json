@@ -1,0 +1,24 @@
+{
+  "chain_name": "jmes-prenet",
+  "registry_name": "JMES Prenet",
+  "api": [
+    { "provider": "JMES Core Team", "address": "https://jmes-lcd-proxy-7s9bz.ondigitalocean.app" }
+  ],
+  "rpc": [
+    { "provider": "JMES Core Team", "address": "https://jmes-rpc-proxy-5shu9.ondigitalocean.app" }
+  ],
+  "sdk_version": "0.45.1",
+  "coin_type": "6280",
+  "min_tx_fee": "800",
+  "addr_prefix": "jmes",
+  "logo": "/logos/cosmos.svg",
+  "assets": [
+    {
+      "base": "ujmes",
+      "symbol": "JMES",
+      "exponent": "6",
+      "coingecko_id": "",
+      "logo": "/logos/cosmos.svg"
+    }
+  ]
+}
