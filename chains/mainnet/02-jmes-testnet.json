@@ -1,0 +1,24 @@
+{
+  "chain_name": "jmes-testnet",
+  "registry_name": "JMES Testnet",
+  "api": [
+    { "provider": "JMES Core Team", "address": "https://jmes-lcd-proxy-testnet-iqohy.ondigitalocean.app" }
+  ],
+  "rpc": [
+    { "provider": "JMES Core Team", "address": "https://jmes-rpc-proxy-testnet-9iqi6.ondigitalocean.app" }
+  ],
+  "sdk_version": "0.45.1",
+  "coin_type": "6280",
+  "min_tx_fee": "800",
+  "addr_prefix": "jmes",
+  "logo": "/logos/cosmos.svg",
+  "assets": [
+    {
+      "base": "ujmes",
+      "symbol": "JMES",
+      "exponent": "6",
+      "coingecko_id": "",
+      "logo": "/logos/cosmos.svg"
+    }
+  ]
+}

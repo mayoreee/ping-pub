@@ -259,6 +259,7 @@ export const useDashboard = defineStore('dashboard', {
       localStorage.getItem('favoriteMap') ||
         '{"cosmos":true, "osmosis":true}'
     );
+
     return {
       status: LoadingStatus.Empty,
       source: ConfigSource.MainnetCosmosDirectory,
