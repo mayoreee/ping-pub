@@ -204,6 +204,7 @@ function selected(route: any, nav: NavLink) {
           {{ item?.heading }}
         </div>
       </div>
+      <!--
       <div class="px-2">
         <div class="px-4 text-sm pt-2 text-gray-400 pb-2 uppercase">
           {{ $t('module.sponsors') }}
@@ -278,6 +279,7 @@ function selected(route: any, nav: NavLink) {
           </div>
         </a>
       </div>
+      -->
     </div>
     <div class="xl:!ml-64 px-3 pt-4">
       <!-- header -->
