@@ -11,14 +11,14 @@
   "coin_type": "6280",
   "min_tx_fee": "800",
   "addr_prefix": "jmes",
-  "logo": "/logos/cosmos.svg",
+  "logo": "/logos/jmes.ico",
   "assets": [
     {
       "base": "ujmes",
       "symbol": "JMES",
       "exponent": "6",
       "coingecko_id": "",
-      "logo": "/logos/cosmos.svg"
+      "logo": "/logos/jmes.ico"
     }
   ]
 }
