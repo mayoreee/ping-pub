@@ -1,6 +1,6 @@
 {
-  "chain_name": "jmes-testnet",
-  "registry_name": "JMES Testnet",
+  "chain_name": "jmes-namito",
+  "registry_name": "Testnet",
   "api": [
     { "provider": "JMES Core Team", "address": "https://jmes-lcd-proxy-testnet-iqohy.ondigitalocean.app" }
   ],

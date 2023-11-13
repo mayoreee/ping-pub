@@ -1,0 +1,24 @@
+{
+  "chain_name": "jmes-picasso",
+  "registry_name": "Mainnet",
+  "api": [
+    { "provider": "Genesis DAO", "address": "" }
+  ],
+  "rpc": [
+    { "provider": "Genesis DAO", "address": "" }
+  ],
+  "sdk_version": "0.45.1",
+  "coin_type": "6280",
+  "min_tx_fee": "800",
+  "addr_prefix": "jmes",
+  "logo": "/logos/jmes.ico",
+  "assets": [
+    {
+      "base": "ujmes",
+      "symbol": "JMES",
+      "exponent": "6",
+      "coingecko_id": "",
+      "logo": "/logos/jmes.ico"
+    }
+  ]
+}
