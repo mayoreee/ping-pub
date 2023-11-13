@@ -2,10 +2,10 @@
   "chain_name": "jmes-picasso",
   "registry_name": "Mainnet",
   "api": [
-    { "provider": "Genesis DAO", "address": "" }
+    { "provider": "Genesis DAO", "address": "https://lcd-mainnet.jmes-proxy.art" }
   ],
   "rpc": [
-    { "provider": "Genesis DAO", "address": "" }
+    { "provider": "Genesis DAO", "address": "https://rpc-mainnet.jmes-proxy.art" }
   ],
   "sdk_version": "0.45.1",
   "coin_type": "6280",
